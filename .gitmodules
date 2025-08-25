@@ -1,0 +1,6 @@
+[submodule "FrontEnd_NextJs"]
+	path = FrontEnd_NextJs
+	url = https://github.com/AlphaSard/erwansoumhi_conceptart_archive_V0_version
+[submodule "CMS_Headless_Strapi"]
+	path = CMS_Headless_Strapi
+	url = https://github.com/AlphaSard/strapi-cloud-template-blog-c7a9fdf7dc
